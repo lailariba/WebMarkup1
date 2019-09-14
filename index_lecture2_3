@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html>
+	<html lang="en">
+	<head>
+		<meta charset="utf-8"/>
+		<meta name = "keywords" content ="Mike, Bike, Is, Life"/>
+		<meta name = "description" content ="The best website to ever exist"/>
+		<meta name = "author" content="Mike the Bike"/>
+
+		<title>WebMarkup Test Website!</title>
+	</head>
+
+		<body>
+			<h1>Hi!</h1>
+			<h2>Welcome to my page!</h2>
+			<p>I dedicate this website to my bike, Mike. Also Dwight Schrute.
+			The Office is the best tv show ever don't even try me.</p>
+			<h4> Here's a link to a random page because I don't have LinkedIn. </h4>
+			<a href="https://d86.hinsdale86.org/Domain/8">
+			hinsdale central highschool 
+			</a>
+			<p> 
+			I hypothetically visited London, New York, and Paris on the same day. I bought a lot of souvenirs with my $,€,£ because I make bank. In London I bought a telephone booth and the queen.
+			I had to fight for her because some freak swedish lady that was trying to buy the buckingham palace was trying to buy her too.
+			In Paris i bought the eiffel tower, and in New York I bought the statue of liberty. Everything was priceless. Long live america. Swedish meatballs in the US are bomb #noteanoshade 
+			</p>
+			<img src="./img/flowers.jpg"
+			title = "flowers"
+			alt = "pretty"
+			/>
+			<ol>
+				<li>
+					<a href="#numberone">
+					stroopwaffles
+					</a>
+				</li>
+				<li>
+					<a href="#numbertwo">
+					swedish meatballs
+					</a>
+				</li>
+				<li>
+					<a href="#numberthree">
+					cheetos 
+					</a>
+				</li>
+				<li>
+					<a href="#numberfour">
+					flamin hot cheetos
+					</a>
+				</li>
+				<li>
+					<a href="#numberfive">
+					peanut butter 
+					</a>
+				</li>
+			</ol>
+			
+			<ul>
+				<li>
+					<a href="#">
+						try actual swedish meatballs
+					</a>
+				</li>
+				<li>
+					<a href="#">
+						go to New Zealand
+					</a>
+				</li>
+				<li>
+					<a href="#">
+						make bank
+					</a>
+				</li>
+				<li>
+					<a href="#">
+						speak 10 languages 
+					</a>
+				</li>
+				<li>
+					<a href="#">
+						adopt 10 dogs 
+					</a>
+				</li>
+			</ul>
+		<table>
+			<tr>
+				<th>
+					&nbsp;
+				</th>
+				<th>
+					Course Name
+				</th>
+				<th>
+					EC
+				</th>
+				<th>
+					Expected Time
+				</th>
+				<th>
+					Homework
+				</th>
+				<th>
+					Expected Grade
+				</th>
+			</tr>
+			</tr>
+		</table>
+		
+		
+		
+		</body>
+		
+</html>
